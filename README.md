@@ -12,4 +12,4 @@ Estrutura de dados tabular, semelhante a planilha de dados do Excel, em que tant
 
 ## Requirements
 
-pandas, openpyxl
+pandas, openpyxl, matplotlib
